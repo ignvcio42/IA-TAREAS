@@ -1,0 +1,3 @@
+t1:https://colab.research.google.com/drive/1T2_7rOmCLYsm-vqhgLxnETTHMGapJen-?authuser=1
+t2:https://colab.research.google.com/drive/17Ulkid1OxdqOueKqOFFVpkse6T0mDEDr?authuser=1
+t3:https://colab.research.google.com/drive/1Qt25vsy2h-z-_c4T1EeK2MxU4zpiFsoX?authuser=1
